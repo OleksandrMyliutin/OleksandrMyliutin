@@ -1,3 +1,5 @@
+![MasterHead](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaThrYjJ5aWptcmx3MWl4dzdmZjlyM2h2Y3A2NDBrdHI5ZTEzcXU4eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uB86ZyWQsnFSGYe2sA/giphy.gif)
+
 # 💫 About Me:
 🔭 I’m currently working on:<br> Front-end projects with React, building reusable components and practicing clean code with real-world apps.<br><br>👯 I’m looking to collaborate on:<br> Open source React projects, team projects using modern front-end stacks, and anything that helps me grow as a full-stack developer.<br><br>🤝 I’m looking for help with:<br>  Advanced React patterns (hooks, context, Redux, performance optimization) and backend integration with Node.js.<br><br>🌱 I’m currently learning:<br> React ecosystem (React Router, Redux Toolkit, Next.js), TypeScript, and backend development with Node.js + Express.<br> <br>💬 Ask me about:<br> React basics, building responsive UIs, connecting APIs to front-end apps, or my learning journey in becoming a full-stack developer.<br><br>⚡ Fun fact:<br> I enjoy exploring new frameworks, but I always come back to React because it feels like home.
 
